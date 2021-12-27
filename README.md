@@ -1,6 +1,6 @@
-# media_query_test_in_flutter
+# media_query_test_in_flutter_2
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
