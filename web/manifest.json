@@ -1,6 +1,6 @@
 {
-    "name": "media_query_test_in_flutter_2",
-    "short_name": "media_query_test_in_flutter_2",
+    "name": "media_query_test_in_flutter",
+    "short_name": "media_query_test_in_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
